@@ -24,7 +24,7 @@ Using a voluntary international framework alongside binding domestic law is deli
 
 | # | Deliverable | Description | Status |
 |---|---|---|---|
-| 1 | Risk assessment register | Risk register with likelihood, impact, inherent and residual rating, treatment strategy and named owner | Pending upload |
+| 1 | Risk assessment register | Six-risk register with likelihood, impact, inherent rating, treatment strategy, proposed controls, responsible departments and NIST AI RMF / NDPA 2023 references | [Published (PDF)](deliverables/01-risk-assessment-register/Bytepay_AI_Risk_Assessment_Register.pdf) |
 | 2 | AI governance policy | Bytepay's governing policy for the responsible development and use of AI | Pending upload |
 | 3 | Departmental roles and responsibilities | Allocation of AI governance accountabilities across departments | Pending upload |
 | 4 | Project executive summary | Summary of the governance programme, scope, method and outcomes | Pending upload |
