@@ -2,6 +2,11 @@
 
 All changes to the Bytepay governance deliverables are recorded here. Dates are ISO 8601.
 
+## 2026-11-26
+
+### Added
+- Deliverable 04: Project summary (PDF, 4 pages), sourced from the artefact uploaded to the GovAI Portfolio site. Records the executive summary of the assessment: scope, method and outcomes.
+
 ## 2026-11-22
 
 ### Added
@@ -19,4 +24,4 @@ All changes to the Bytepay governance deliverables are recorded here. Dates are 
 ### Pending
 - AI governance policy
 - Departmental roles and responsibilities
-- Project executive summary
+- Excel source of the risk register
