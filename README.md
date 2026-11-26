@@ -22,14 +22,16 @@ Using a voluntary international framework alongside binding domestic law is deli
 
 ## Deliverables
 
-| # | Deliverable | Description | Status |
+| # | Deliverable | Format | Link |
 |---|---|---|---|
-| 1 | Risk assessment register | Six-risk register with likelihood, impact, inherent rating, treatment strategy, proposed controls, responsible departments and NIST AI RMF / NDPA 2023 references | [Published (PDF)](deliverables/01-risk-assessment-register/Bytepay_AI_Risk_Assessment_Register.pdf) |
-| 2 | AI governance policy | Bytepay's governing policy for the responsible development and use of AI | Pending upload |
-| 3 | Departmental roles and responsibilities | Allocation of AI governance accountabilities across departments | Pending upload |
-| 4 | Project summary | Executive summary of the assessment: scope, method and outcomes | [Published (PDF)](deliverables/04-executive-summary/Bytepay_Project_Summary.pdf) |
+| 1 | Risk assessment register with treatment strategies (v2) | PDF | [Register (PDF)](deliverables/01-risk-assessment-register/Bytepay_AI_Risk_Assessment_Register.pdf) |
+| 1a | Risk assessment register workbook (v2, editable) | XLSX | [Register (XLSX)](deliverables/01-risk-assessment-register/Bytepay_AI_Risk_Assessment_Register.xlsx) |
+| 2 | AI governance policy | — | Pending upload |
+| 3 | Departmental roles and responsibilities | PDF | [Roles and responsibilities](deliverables/03-roles-and-responsibilities/Bytepay_Departmental_Roles_and_Responsibilities.pdf) |
+| 4 | Project summary (executive summary) | PDF | [Project summary](deliverables/04-executive-summary/Bytepay_Project_Summary.pdf) |
+| 5 | Main project report | PDF | [Main project report](deliverables/05-main-project-report/Bytepay_Main_Project_Report.pdf) |
 
-Each deliverable is provided in two forms where applicable: a PDF for reading, and an editable source file (`.xlsx` or `.md`) so the working document can be inspected.
+The register is provided in two forms: a PDF for reading and an editable XLSX so the working document, including its scoring model and controls, can be inspected.
 
 ## Repository structure
 
@@ -38,10 +40,11 @@ Each deliverable is provided in two forms where applicable: a PDF for reading, a
 ├── README.md                  This file
 ├── CHANGELOG.md               Record of changes to each deliverable
 ├── deliverables/
-│   ├── 01-risk-assessment-register/
-│   ├── 02-ai-governance-policy/
+│   ├── 01-risk-assessment-register/     Register PDF + editable XLSX
+│   ├── 02-ai-governance-policy/         Pending
 │   ├── 03-roles-and-responsibilities/
-│   └── 04-executive-summary/
+│   ├── 04-executive-summary/
+│   └── 05-main-project-report/
 └── LICENSE.md
 ```
 
